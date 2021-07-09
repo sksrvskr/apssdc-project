@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518329330071",
+    "firebase_url": "https://learning-materials.firebaseio.com",
+    "project_id": "learning-materials",
+    "storage_bucket": "learning-materials.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518329330071:android:cdb887324e1eaf1a587cd2",
+        "android_client_info": {
+          "package_name": "com.gec.learningmaterials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518329330071-epars8tvbdekfr5hh5de16b6url6ip9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqiWIrQEs5BFgbkZSDI5oD1-i02CJvkPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518329330071-epars8tvbdekfr5hh5de16b6url6ip9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
